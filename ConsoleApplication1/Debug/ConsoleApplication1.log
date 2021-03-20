@@ -1,4 +1,0 @@
-﻿  TicTacToe.cpp
-C:\Users\mathi\OneDrive\Documents\GitHub\TicTacToe\TicTacToe\ConsoleApplication1\TicTacToe.cpp(154,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-C:\Users\mathi\OneDrive\Documents\GitHub\TicTacToe\TicTacToe\ConsoleApplication1\TicTacToe.cpp(180,23): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-  ConsoleApplication1.vcxproj -> C:\Users\mathi\OneDrive\Documents\GitHub\TicTacToe\TicTacToe\Debug\TicTacToe.exe
